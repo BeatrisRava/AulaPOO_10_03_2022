@@ -1,4 +1,4 @@
-import java.until.Scanner;
+import java.util.Scanner;
 public class IfSimples{
 public static void main(String[] args) {
     Scanner leitor;
